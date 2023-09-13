@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\LABORATORIO 210\Desktop\Luis datos pls no borrar\ConsoleApplication1\ConsoleApplication1.cpp(86,9): error C2661: 'sqrt': ninguna función sobrecargada acepta 2 argumentos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\cmath(675,1): message : puede ser 'double sqrt(_Ty) noexcept'
+C:\Users\LABORATORIO 210\Desktop\Luis datos pls no borrar\ConsoleApplication1\ConsoleApplication1.cpp(86,9): message : "double sqrt(_Ty) noexcept": espera 1 argumentos - 2 proporcionado
+C:\Users\LABORATORIO 210\Desktop\Luis datos pls no borrar\ConsoleApplication1\ConsoleApplication1.cpp(86,9): message : al hacer coincidir la lista de argumentos '(float, float)'
+C:\Users\LABORATORIO 210\Desktop\Luis datos pls no borrar\ConsoleApplication1\ConsoleApplication1.cpp(86,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
