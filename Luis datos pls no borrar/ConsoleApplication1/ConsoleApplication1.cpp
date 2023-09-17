@@ -81,6 +81,10 @@ int main()
     std::cout << "El resultado de la suma es: " << c << std::endl;
     c = a - b;
     std::cout << "El resultado de la resta es: " << c << std::endl;
+    c = a * b;
+    std::cout << "El resultado de la multiplicacion es:"
+<< c << std::endl;
+    
    
 
 }
